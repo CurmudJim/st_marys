@@ -1,0 +1,20 @@
+{
+  "name": "stmarys",
+  "description": "",
+  "main": "",
+  "authors": [
+    "CurmudJim <jgarvey86@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/CurmudJim/st_marys",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "snazzy-info-window": "^1.1.0"
+  }
+}
